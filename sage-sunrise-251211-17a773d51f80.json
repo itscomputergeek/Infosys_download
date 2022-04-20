@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sage-sunrise-251211",
+  "private_key_id": "17a773d51f808fdaa9ef91783fa5e9ab642afe61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUQ08ymykT5Han\nTF2DQdS2Sg1k7Y47RH0QXRmekd+tZFh/l69m7BjB8/8bKgNfvEGVV9dHpzy5Ltqg\nAk9wcxE8HxuVZlze5XauNT9Yzs/r+W67scni9H5ebejg6j3Kh9gEBI6ID5CUdRBD\n1eRZDGdDADLCEkrU3vfXZm7SvgOrn79hfTHPhMkHS59cIQVXx4NY25LBZmg1drze\nkJ0mK9KDp/PKo+jAmVcPoKerL23BLLV5T0A9eTd2YmbeZd4ueQnuJoX+Ed4fHzye\n75WWPEInIHqjhfDrwhhPypFNy5TejPD1A/Uf2paV06QVp88+dWlpBRof1KAvFvZf\nbKS422EVAgMBAAECggEALv+kVpEyfDwW5Z4sCncWETK+Wn2bA5Z7lpb2qDymaS8R\nxVahuMlIBhHvh2U7EASQBPBJM41dDafJMqqwSjbANy6wHdlncNcf+xzBJPnN4fL9\nyMNp7z2xiVkOulZDTkfb1a/om0nO+oAdFNgUUn9DkftGQeBo/09LUz9UBIecKnCx\n+J0R5uGTUhPmdVjCM1wQISCpKrg/kJkJQyxYa2/fCUMzi6MMyVne264a32sGOE8V\nMLqFHmBVPtkGzeeB+34QVd2JExYdH8nWW+9BhCfWjF7p/7WxvPyWf9/vjYYVS91w\n5vAZcZx5GzhJxt6rJJa+wMmYDLfJtUDPRS47qUBNAQKBgQD/RNYm8IYJqxVaXZpy\n7H/lkQcs9QlZArYZKSVAn5baBHnkNuwRYwyx+eNLdSNVFhhtH0P7+BsepwacXVXu\nRPW928XkrvR7YOxgVbTdJKN/P+Misqzc+5/evOjXu+OwcRgwJ5PpOnuH2k1szBEf\neboBzarSUvsqTknpcJKr/5HdwQKBgQDU3vDYu+Wsyh3O++Sp4WwSwop0qeJWi1tK\nNUtCs7RY2phxuJ0/ZFj350WZFW3tLOZaLFtc9CMFb6WlTIB543qDu54PVHT5NiVY\nIqvU6QsDyT2Md5DqQY/7yLeAI0fU3lCyio7BDAakUpoClrFp5weX9B65g39tSS2l\n0SJAthzAVQKBgF5gbuS6rHPKovxj+wReV/LiKcr/VVNpYzXuNm2sEzPLz90GSUUs\nX7c1ckmlp0iAAMvncVUpJ62vhwwsneaX7FsjdAjWfmFXNk1voozYTPJxBmL/uFWD\nWloZceTA/K9xQMYc+9yQ2LcjiNieof4HHTQpe+yC7YV4qG78Rd39gUqBAoGAE0O1\n0jd2+qMz/WZodENVT4FRnGs/c4ubEGUwUXIH8T6fKzOE75a6Qn0onEkHML6ufhyj\njA8AGF7ZQ9NfkShYDxHspQCEsYUH7ij9GgCZIZeVvV+YusqCKEwq5yrKNmaEMRQ/\nBRN8imR7UZ6noajp1AOgwDM5Vf+YZPg/PFH+2h0CgYEA/S1xAGxZUhIZS1hdtLHl\n+ms/P0Fdnv4kxePoyh6+XSt8Cb/5wmA5EcDfmx5YOfivy9qYzYhswGsPjkBlilpo\nAFeLklybChtAbyWfvJT9/2GGgEyE0YLEqkhJtA9nl9h5N8ITWQTCrQ+3YYwSztpn\nQpE4TSlhOoAybMLGt2aOLfg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pvt-sequelstring@sage-sunrise-251211.iam.gserviceaccount.com",
+  "client_id": "103526948269514813904",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pvt-sequelstring%40sage-sunrise-251211.iam.gserviceaccount.com"
+}
